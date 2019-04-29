@@ -72,3 +72,45 @@ XDのテンプレートを配布している。
 
 
 
+##### XDのアニメーション
+
+cssのアニメーションで実装。
+
+xdのプラグインでcopyCssがある。
+
+AIにはCSSプロパティってある。
+
+
+
+##### 質問内容
+
+- Windows Undoが効かなくなる。
+
+- フォローアップメールが後ほど送られてくる。
+
+- ワイヤーからデザインを作ることが可能。
+
+  - ワイヤーは以下のファイルでパーツを取得可能
+
+    https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD?locale=ja>
+
+- 同時編集は現状さけるようにする。
+  - 同時編集はまだ、後々アップデートされる可能性はある。
+- XDがバグった場合は以下のファイルを確認する。
+- sampleは以下にある。
+- <https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=xd%20ui>
+- バッチとして登録をすると、バッチとして書き出される。書き出し先を色々と変更できる。
+  - 画像の書き出しなど、Resizeをかけることができる。
+
+
+
+##### 以下に参考サイトおよび、templateがのっている。
+
+<https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=xd%2520ui>
+
+<https://www.xdguru.com/xd-website-templates/>
+
+<https://www.adobe.com/jp/search.html#q=xd%20ui&sort=relevancy&start=1>
+
+- 以上となります。
+
